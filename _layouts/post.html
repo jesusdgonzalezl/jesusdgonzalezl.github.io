@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <!--
-	Forty by HTML5 UP
+	Spectral by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
@@ -10,24 +10,22 @@
 
 <body>
 
-    {% include header.html %} 
-    
-    
-<!-- Main -->
-<div id="main" class="alt">
+    {% include header.html %}
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
-		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-		{{ content }}
-	</div>
-</section>
+    <!-- Main -->
+    <article id="main">
+        <header{% if page.image %} style="background-image: url('{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}');"{% endif %}>
+            <h2>{{ page.title }}</h2>
+            <p>{{ page.description }}</p>
+        </header>
+        <section class="wrapper style5">
+            <div class="inner">
 
-</div>
+                {{ content }}
+
+            </div>
+        </section>
+    </article>
 
     {% include footer.html %}
 
