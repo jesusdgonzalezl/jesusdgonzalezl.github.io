@@ -5,7 +5,9 @@ description: Engineer, Researcher and Professor in Electrical and Computer Engin
 ---
 
 Jesus Gonzalez-Llorente received his undergraduate degree in electronics engineering from the National University of Colombia at Manizales in 2003, his Specialized Diploma in Software Engineering from Francisco Jose de Caldas District University in 2005, his M.Sc. degree in electrical engineering from the University of Puerto Rico at Mayaguez in 2009, and his Ph.D. degree in Engineering from the Kyushu Institute of Technology at Kitakyushu, Japan in 2019.
+
 He was a researcher in the National Astronomy and Ionosphere Center - Arecibo Observatory under Cornell University operation during 2010. He also was a visiting scholar at the University of Arkansas in Fayetteville, USA in 2013, and an adjunct professor at the University of Puerto Rico at Mayaguez 2015. He has more than ten years' experience in teaching and research in different universities in Colombia. His research activities include modeling and control of low power dc-dc converters, solar photovoltaic systems, small satellites, and systems engineering. He has published over 30 refereed papers in recognized conferences and journals.
+
 Dr. Gonzalez-Llorente is an IEEE Senior Member, and he has served as a reviewer and technical committee member of recognized conferences. He received the Emerging Space Leader Grant from the International Astronautical Federation in 2015. He also received the United Nations/Japan Long-term Fellowship from 2016-2019 to participated in the Space Engineering International Course (SEIC) in the Department of Applied Science for Integrated Systems Engineering in Kyutech, Japan, as part of the Post-graduate Study on Nanosatellite Technology in collaboration with United Nations Office for Outer Space Affairs (UNOOSA).
 
 --------------------------------------------------------------------------------
