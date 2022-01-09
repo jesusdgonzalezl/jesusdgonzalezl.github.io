@@ -3,7 +3,7 @@ title: Jesus D. Gonzalez L., Ph.D.
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Spectral theme by HTML5 UP.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://jesusgonzalez.co # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
