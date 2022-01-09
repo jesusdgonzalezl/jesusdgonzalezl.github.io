@@ -4,10 +4,11 @@ title: About
 description: Engineer, Researcher and Professor in Electrical and Computer Engineering.
 ---
 
-<table style="width:100%; background-color=#000">
- <tr style="vertical-align:top">
- <th> <img src="jesus_david_gonzalez_profile.png" alt="mypic" align="left"> </th>
- <th>
+
+<span class="image">
+<img src="jesus_david_gonzalez_profile.png" alt="mypic">
+</span>
+<span class="content">
 <p>
 Jesus Gonzalez-Llorente received his undergraduate degree in electronics engineering from the National University of Colombia at Manizales in 2003, his Specialized Diploma in Software Engineering from Francisco Jose de Caldas District University in 2005, his M.Sc. degree in electrical engineering from the University of Puerto Rico at Mayaguez in 2009, and his Ph.D. degree in Engineering from the Kyushu Institute of Technology at Kitakyushu, Japan in 2019.
 </p>
@@ -18,7 +19,5 @@ He was a researcher in the National Astronomy and Ionosphere Center - Arecibo Ob
 Dr. Gonzalez-Llorente is an IEEE Senior Member, and he has served as a reviewer and technical
  committee member of recognized conferences. He received the Emerging Space Leader Grant from the International Astronautical Federation in 2015. He also received the United Nations/Japan Long-term Fellowship from 2016-2019 to participated in the Space Engineering International Course (SEIC) in the Department of Applied Science for Integrated Systems Engineering in Kyutech, Japan, as part of the Post-graduate Study on Nanosatellite Technology in collaboration with United Nations Office for Outer Space Affairs (UNOOSA).
  </p>
- </th>
-</tr>
-</table>
+ </span>
 --------------------------------------------------------------------------------
