@@ -4,7 +4,7 @@ title: About
 description: Engineer, Researcher and Professor in Electrical and Computer Engineering.
 ---
 
-<table style="width:100%" background-color=white>
+<table style="width:100%; background-color=#000">
  <tr style="vertical-align:top">
  <th> <img src="jesus_david_gonzalez_profile.png" alt="mypic" align="left"> </th>
  <th>
