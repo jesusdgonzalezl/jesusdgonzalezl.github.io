@@ -3,8 +3,6 @@ layout: page
 title: About
 description: Engineer, Researcher and Professor in Electrical and Computer Engineering.
 ---
-
-
 <div class="image col-6 col-12-medium">
 <img src="jesus_david_gonzalez_profile.png" alt="mypic">
 </div>
@@ -19,5 +17,5 @@ He was a researcher in the National Astronomy and Ionosphere Center - Arecibo Ob
 Dr. Gonzalez-Llorente is an IEEE Senior Member, and he has served as a reviewer and technical
  committee member of recognized conferences. He received the Emerging Space Leader Grant from the International Astronautical Federation in 2015. He also received the United Nations/Japan Long-term Fellowship from 2016-2019 to participated in the Space Engineering International Course (SEIC) in the Department of Applied Science for Integrated Systems Engineering in Kyutech, Japan, as part of the Post-graduate Study on Nanosatellite Technology in collaboration with United Nations Office for Outer Space Affairs (UNOOSA).
  </p>
- </div> 
+ </div>
 --------------------------------------------------------------------------------
