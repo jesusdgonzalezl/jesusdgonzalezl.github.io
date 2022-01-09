@@ -3,7 +3,6 @@ layout: page
 title: Research
 description: Long-term learning
 ---
-
 ### The LEO Environment Observation Satellite TEN-KOH
 
 I have contributed with methods and guidelines for the rapid development of electrical power systems and to diminish the failure rate that is related to the small spacecraft. I proposed a modular approach to achieve rapid development and reliable systems. The results of this research were demonstrated in Ten-Koh satellite, which was developed in 1.5 years and it was launched by H-2A rocket in October of 2018. As part of this project, I led the experiment to demonstrate the use of supercapacitor as suitable energy storage device for space applications.
