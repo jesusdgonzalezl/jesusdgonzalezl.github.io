@@ -6,7 +6,7 @@ description: Engineer, Researcher and Professor in Electrical and Computer Engin
 
 <table style="width:100%">
  <tr>
- <th> <img src="jesus_david_gonzalez_profile.png" alt="mypic"> </th>
+ <th> <img src="jesus_david_gonzalez_profile.png" alt="mypic" align="left"> </th>
  <th>
 <p>
 Jesus Gonzalez-Llorente received his undergraduate degree in electronics engineering from the National University of Colombia at Manizales in 2003, his Specialized Diploma in Software Engineering from Francisco Jose de Caldas District University in 2005, his M.Sc. degree in electrical engineering from the University of Puerto Rico at Mayaguez in 2009, and his Ph.D. degree in Engineering from the Kyushu Institute of Technology at Kitakyushu, Japan in 2019.
