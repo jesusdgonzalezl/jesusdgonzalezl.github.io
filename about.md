@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Engineer, Researcher and Professor in Electrical and Computer Engineering.
+description: Engineer, Researcher and Professor in Engineering.
 ---
 <div class="row">
 <div class="image 4u 12u$(medium)" style="text-align:center">
