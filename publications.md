@@ -7,6 +7,7 @@ description:
 ### Books
 
 #### Introduction to Solar Energy [In Spanish]
+<img src="CaratulaLibroEsmall.jpg" alt="title" align="left" style="padding:5px" width="200px">
 This book describes the basic of solar energy. It is divided into three parts: "Fundamentals of solar energy", "Models and techniques to maximize the energy obtained from the solar panels" and "Design of photovoltaic systems". Read some sample chapters [here](https://libros.jesusgonzalez.co/energ%C3%ADa-solar.html).
 
 #### Obtaining solar energy and its efficient use in satellites  [In Spanish]
