@@ -35,5 +35,5 @@ Management, vol. 8, no. 1, pp. 91–102, 2016. DOi: http://dx.doi.org/10.5028/ja
 
 #### Research profiles
 
-See list of publication in [Google Scholar](https://scholar.google.com/citations?hl=es&user=pBC8EsoAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}\
-See list of publication in [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35090267300){:target="_blank"}
+See list of publication in [Google Scholar](https://scholar.google.com/citations?hl=es&user=pBC8EsoAAAAJ&view_op=list_works&sortby=pubdate) <!--{:target="_blank"}\ -->
+See list of publication in [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35090267300)<!-- {:target="_blank"} -->

@@ -7,7 +7,7 @@ description: Engineer, Researcher and Professor in Engineering.
 <div class="image 4u 12u$(medium)" style="text-align:center">
 <img src="assets/images/jesus_david_gonzalez_profile.png" alt="mypic" style="display:inline">
 <p>
-Engineer, Researcher and Professor in Electrical and Computer Engineering
+Engineer, Researcher and Professor in Engineering
 </p>
 </div>
 <div class="content 8u 12u$(medium)">
@@ -23,6 +23,7 @@ Dr. Gonzalez-Llorente is an IEEE Senior Member, and he has served as a reviewer 
  </p>
  </div>
  </div>
+
 --------------------------------------------------------------------------------
 ### Contact
 <div>
