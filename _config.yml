@@ -23,7 +23,7 @@ linkedin_url: https://www.linkedin.com/in/jesus-gonzalez-llorente/
 pinterest_url:
 slack_url:
 twitter_url:
-orcid_url: https://orcid.org/0000-0001-6525-7657  
+orcid_url: https://orcid.org/0000-0001-6525-7657
 
 # Build settings
-markdown: kramdown
+markdown: GFM
