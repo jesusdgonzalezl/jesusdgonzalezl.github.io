@@ -13,4 +13,4 @@ I have contributed with methods and guidelines for the rapid development of elec
 
 It aimed at finding the best conditions to generate and use the energy in a CubeSat. This project addressed the problem by focusing on techniques to maximize the generated energy of the solar panel and the efficiency of the power converter by using GaN semiconductors and changing the operation mode of the power converters. In addition, the power consumption of the attitude and control system based on reaction wheels was analyzed. And a platform to evaluate magnetic actuators was designed.
 
-### See a full list of publications in [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35090267300){:target="_blank"  rel="noopener"}
+### See a full list of publications in [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35090267300)<!-- {:target="_blank"  rel="noopener"} -->

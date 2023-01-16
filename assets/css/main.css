@@ -3291,6 +3291,7 @@
 			line-height: inherit;
 			position: absolute;
 			top: 0;
+			text-transform: capitalize;
 		}
 
 			#header h1 a {
@@ -3428,6 +3429,7 @@
 			padding: 0.35em 1em;
 			position: relative;
 			z-index: 1;
+			text-transform: capitalize;
 		}
 
 			#banner h2:before, #banner h2:after {
